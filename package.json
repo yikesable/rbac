@@ -1,7 +1,7 @@
 {
-  "name": "@yikesable/node-module-template",
+  "name": "@yikesable/rbac",
   "version": "0.0.0",
-  "description": "A GitHub template repo for node modules",
+  "description": "Vanilla role-base access control library",
   "homepage": "http://github.com/yikesable/rbac",
   "repository": {
     "type": "git",
