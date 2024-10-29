@@ -1,3 +1,7 @@
-export type * from './lib/advanced-types.d.ts';
+export { addRolePermission } from './lib/rbac.js';
 
-export { main } from './lib/main.js';
+export type {
+  PermissionRoleList,
+  PermissionContextOperations,
+  PermissionCrudOperation,
+} from './lib/rbac-types.d.ts';

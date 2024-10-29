@@ -1,1 +1,1 @@
-export { main } from './lib/main.js';
+export { addRolePermission } from './lib/rbac.js';

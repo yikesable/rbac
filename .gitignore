@@ -13,6 +13,9 @@
 *.d.ts
 *.d.ts.map
 !/lib/**/*-types.d.ts
+!/test/**/*-types.d.ts
+!/test-published-types/**/*-types.d.ts
 !/index.d.ts
 
 # Library specific ones
+/test-published-types/node_modules
