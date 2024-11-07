@@ -1,6 +1,6 @@
 {
   "name": "@yikesable/rbac",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Vanilla role-base access control library",
   "homepage": "http://github.com/yikesable/rbac",
   "repository": {
