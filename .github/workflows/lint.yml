@@ -15,4 +15,4 @@ permissions:
 
 jobs:
   lint:
-    uses: voxpelli/ghatemplates/.github/workflows/lint.yml@main
+    uses: yikesable/workflows/.github/workflows/lint.yml@main

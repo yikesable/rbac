@@ -15,7 +15,7 @@ permissions:
 
 jobs:
   test:
-    uses: voxpelli/ghatemplates/.github/workflows/test.yml@main
+    uses: yikesable/workflows/.github/workflows/test.yml@main
     with:
       node-versions: '18,20,21'
       os: 'ubuntu-latest'

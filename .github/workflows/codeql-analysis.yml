@@ -15,4 +15,4 @@ permissions:
 
 jobs:
   analyze:
-    uses: voxpelli/ghatemplates/.github/workflows/codeql-analysis.yml@main
+    uses: yikesable/workflows/.github/workflows/codeql-analysis.yml@main
